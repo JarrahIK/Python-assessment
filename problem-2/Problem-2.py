@@ -21,4 +21,8 @@ def find_avg_salary (employees:list):
 
 
 ##to find the avg salary
+<<<<<<< HEAD
 find_avg_salary(employees)
+=======
+find_avg_salary(employees)
+>>>>>>> d1206734495b1116dc7315d23ea315ff21567a78
