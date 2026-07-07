@@ -1,3 +1,4 @@
+
 ## this will be a soultion to the furst problem which is returinng a dictionary with the following Number of characters
 #Number of words
 #Number of sentences
@@ -17,6 +18,7 @@ def analyze_text (text:str)->dict:
  }
  return (ana)
 print(analyze_text(text))
+
 
 
 
